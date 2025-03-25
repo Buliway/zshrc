@@ -34,3 +34,6 @@ bindkey "$terminfo[kcud1]" history-substring-search-down
 
 # Алиасы
 alias f="fastfetch"
+alias v="nvim"
+alias vi="nvim"
+alias vim="nvim"
